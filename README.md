@@ -4,8 +4,6 @@ The project is using **an optimized architecture for building solid cross-platfo
 
 <br/>
 
-<br/>
-
 ## Directory Structure
 
 ```
@@ -39,7 +37,7 @@ root
 
 <br/>
 
-## Preconfigured with
+## Integrated Features:
 
 - Latest react native version
 
